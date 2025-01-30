@@ -1,2 +1,2 @@
 # PedoCatcher-9000
-Custom plugin Pour serveur
+Choppeur de pedo qui fonctionne sous base de donnée 
